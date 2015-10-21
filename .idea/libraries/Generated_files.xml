@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/controllers/application-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/assets/test-support-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/assets/vendor-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/assets/rarwe-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/testem-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/testem-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/application-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/assets/test-support-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/assets/vendor-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/assets/rarwe-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
