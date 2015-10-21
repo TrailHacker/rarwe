@@ -10,9 +10,9 @@
             <ul class="list-group">
               {{#each songs.sortedContent as |song|}}
                   <li class="list-group-item">
-                    {{song.title}} by {{song.band}}
+                    <strong>{{song.title}}</strong> by <em>{{song.band}}</em>
                     <span class="rating pull-right">
-                        ({{song.rating}})
+                        {{song.rating}}
                     </span>
                   </li>
               {{/each}}
