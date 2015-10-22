@@ -17,4 +17,4 @@ npm-debug.log
 testem.log
 
 *-compiled.js*
-/.idea
+.idea
